@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## I enjoy combining my curiosity for coding with my background in design.
+### I enjoy combining my curiosity for coding with my background in design.
 
 <!--
 **camdlee/camdlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
