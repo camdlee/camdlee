@@ -8,6 +8,9 @@
 
 ### I enjoy combining my curiosity for coding with my background in design.
 
+[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdlee)](https://github.com/camdlee/github-readme-stats)
+
+
 <!--
 **camdlee/camdlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
