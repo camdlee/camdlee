@@ -1,4 +1,4 @@
-# Hi, I'm Cameron 👋
+# Hi there! Nice to meet you, I'm Cameron 👋
 
 ### I enjoy combining my curiosity for coding with my background in design.
 
