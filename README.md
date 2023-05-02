@@ -1,15 +1,13 @@
 # Hi, I'm Cameron 👋
 
+## I enjoy combining my curiosity for coding with my background in design.
+
+[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdlee)](https://github.com/camdlee/github-readme-stats)
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/cameronlee18/)">
+  <a href="https://www.linkedin.com/in/cameronlee18/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-### I enjoy combining my curiosity for coding with my background in design.
-
-[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdlee)](https://github.com/camdlee/github-readme-stats)
-
 
 <!--
 **camdlee/camdlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
