@@ -3,6 +3,8 @@
 ### I enjoy combining my curiosity for coding with my background in design.
 
 [![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=camdlee)](https://github.com/camdlee/github-readme-stats)
+
+<h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/cameronlee18/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
