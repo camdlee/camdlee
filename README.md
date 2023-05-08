@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cameron</h1>
+<h1 align="center">Hi 👋, I'm Cameron!</h1>
 <h3 align="center">I enjoy combining my curiosity for coding with my background in design.</h3>
 
 - 📫 How to reach me **camdlee18@gmail.com**
